@@ -109,3 +109,16 @@ body {
 .credit-card-box .panel-heading img {
     min-width: 180px;
 }
+a{
+	color: inherit;
+	text-decoration: none;
+	transition: all 0.3s;
+  }
+  
+  a:hover,
+  a:focus {
+	text-decoration: none;
+  }
+  footer {
+    background: #212529f3;
+}
